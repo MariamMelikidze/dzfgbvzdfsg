@@ -1,0 +1,8 @@
+C:\Users\lab316_student09\Desktop\taskforC-\quizofWORDLE\obj\Debug\quizofWORDLE.csproj.AssemblyReference.cache
+C:\Users\lab316_student09\Desktop\taskforC-\quizofWORDLE\obj\Debug\quizofWORDLE.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab316_student09\Desktop\taskforC-\quizofWORDLE\obj\Debug\quizofWORDLE.Form1.resources
+C:\Users\lab316_student09\Desktop\taskforC-\quizofWORDLE\obj\Debug\quizofWORDLE.Form2.resources
+C:\Users\lab316_student09\Desktop\taskforC-\quizofWORDLE\obj\Debug\quizofWORDLE.Form3.resources
+C:\Users\lab316_student09\Desktop\taskforC-\quizofWORDLE\obj\Debug\quizofWORDLE.Properties.Resources.resources
+C:\Users\lab316_student09\Desktop\taskforC-\quizofWORDLE\obj\Debug\quizofWORDLE.csproj.GenerateResource.cache
+C:\Users\lab316_student09\Desktop\taskforC-\quizofWORDLE\obj\Debug\quizofWORDLE.csproj.CoreCompileInputs.cache
